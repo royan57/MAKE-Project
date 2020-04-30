@@ -9,6 +9,9 @@ This Youtube video was used to develop the base code. (https://www.youtube.com/w
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Running the app: 
+-In visual studio code terminal: 
+
 ## Available Scripts
 
 In the project directory, you can run:
