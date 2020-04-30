@@ -1,3 +1,12 @@
+This project is an attempt to recreate the "Bill Clinton Swag" website (https://billclintonswag.com/) as "Barack Obama Swag". In the Bill Clinton version, users can place album covers in Bill Clinton's hands. This has been a viral meme on Instagram where users nominate eachother to post President Clinton holding their four favorite albums. After you are nominated, and subsiquently post your favorite albums, you nominate more people to continue the trend. 
+
+This app aims to recreate the "Bill Clinton Swag" meme using President Barack Obama pointing at an art gallery of your three favorite movies. The app uses the "MovieDB API", npm, nodejs, and reactjs in order to create a webpage where the user can search for their favorite movies, and add the movie poster to President Obama's gallery. 
+
+The app is currently unfinished, and is not hosted on a webpage yet. The developers still need to add code which will allow the movie posters to be added at will to the gallery frames. 
+
+This Youtube video was used to develop the base code. (https://www.youtube.com/watch?v=bqSSLr8A8PU)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
