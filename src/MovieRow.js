@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 class MovieRow extends React.Component{
 
 
@@ -13,7 +14,7 @@ class MovieRow extends React.Component{
             <td className = "searchResultRow">
               <p>{this.props.movie.title}</p>
               <p>{this.props.movie.release_date}</p>
-              <input type = "button" value="Select" />
+              <input type = "button" value="Select"/>
             </td>
             <td>
               <p>{this.props.movie.overview}</p>

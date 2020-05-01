@@ -3,12 +3,9 @@ import React, { Component } from 'react';
 import './App.css';
 import { render } from '@testing-library/react';
 import MovieRow from './MovieRow.js'
-import PosterInsert from './PosterInsert.js'
 import $ from 'jquery'
 
-var sourceLeft = ""
-var sourceRight = ""
-var sourceMiddle = ""
+
 
 class App extends Component {
   constructor(props) {
@@ -66,6 +63,8 @@ class App extends Component {
     boundObject.performSearch(searchTerm)
   }
 
+
+
   render() {
     return (
       <div> 
@@ -77,9 +76,9 @@ class App extends Component {
               </h1>
               <tr>
             <img id = "obamaImage" alt = "background" className = "obamaImage" src = "Obama Final.png"/>
-            <img id = "shutterIsland" alt = "left" className = "leftPoster" src = "ShutterIsland.jpg"/>
-            <img id = "shutterIsland" alt = "middle" className = "middlePoster" src = "ShutterIsland.jpg"/>
-            <img id = "shutterIsland" alt = "right" className = "rightPoster" src = "ShutterIsland.jpg"/>
+            <img id = "leftPoster" alt = "left" className = "leftPoster" src = "TheLionKing.jpg"/>
+            <img id = "middlePoster" alt = "middle" className = "middlePoster" src = "ShutterIsland.jpg"/>
+            <img id = "rightPoster" alt = "right" className = "rightPoster" src = "PulpFiction.jpg"/>
             <img id = "obamaCutOut" alt = "obamacutout" className = "obamaCutOut" src = "ObamaCutOut.png"/>
             </tr>
             </tr>

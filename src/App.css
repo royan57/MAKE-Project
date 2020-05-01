@@ -34,28 +34,28 @@
   position: absolute;
   width: 287px;
   left: 490px;
-  top: 305px;
+  top: 303px;
 }
 
 .leftPoster {
   width: 91px;
   position: absolute;
   left: 569px;
-  top: 271px;
+  top: 269px;
 }
 
 .middlePoster {
   width: 115px;
   position: absolute;
   left: 692px;
-  top: 260px;
+  top: 259px;
 }
 
 .rightPoster {
   width: 91px;
   position: absolute;
   left: 838px;
-  top: 271px;
+  top: 269px;
 }
 
 .App {
