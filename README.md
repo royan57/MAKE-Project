@@ -4,8 +4,6 @@ This app aims to recreate the "Bill Clinton Swag" meme using President Barack Ob
 
 The app is currently unfinished, and is not hosted on a webpage yet. The developers still need to add code which will allow the movie posters to be added at will to the gallery frames. 
 
-This Youtube video was used to develop the base code. (https://www.youtube.com/watch?v=bqSSLr8A8PU)
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
